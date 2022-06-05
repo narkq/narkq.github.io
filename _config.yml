@@ -1,14 +1,12 @@
 # Site settings
-title: Code fairy blog
+title: narkq's blog
 email:
 description: Yet another coder's blog
 baseurl: ""
 url: "https://narkq.github.io"
-#twitter_username: narkq
 github_username: narkq
-googleplus_username: AlexSladkov
 
 # Build settings
-markdown: redcarpet
+markdown: GFM
 highlighter: pygments
 timezone: Europe/Moscow
